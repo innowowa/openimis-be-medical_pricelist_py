@@ -17,6 +17,7 @@ DEFAULT_CFG = {
 }
 
 
+
 class MedicalPricelistConfig(AppConfig):
     name = MODULE_NAME
 
